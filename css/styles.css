@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import './_reset.css';
+@import './_header.css';
+@import './_main.css';
+@import './_footer.css';
+
+body {
+    font-family: "Inter", system-ui;
+    background-color: #000;
+}
+
+p {
+    color: #fff;
+}
